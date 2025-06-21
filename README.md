@@ -123,10 +123,10 @@ I'm a **Ph.D. Scholar & Research Associate** at the Medical University of Graz, 
 ## 🏆 Recent Achievements & Recognition
 
 - 🥇 **WVSD Research Grant 2023** - Scientific Association of Styrian Dermatology
-- 🌏 **EADV Travel Grant** (€2,000) - International Societies for Investigative Dermatology, Tokyo
-- 🏅 **ADF Best Poster Award** - German Dermatological Society 2023
-- 🎖️ **ÖGDV Poster Prize 2022** - Vienna, Austria
-- 💰 **DK-MOLIN International Ph.D. Program** - Austrian Science Fund (FWF) 2017-2021
+- 🌏 **EADV Grant** - International Societies for Investigative Dermatology, Tokyo
+- 🏅 **ADF Award** - German Dermatological Society 2023
+- 🎖️ **ÖGDV Prize 2022** - Vienna, Austria
+- 💰 **DK-MOLIN International Ph.D. Scholarship** - Austrian Science Fund (FWF) 2017-2021
 - 📚 **13+ Peer-reviewed Publications** in high-impact journals
 
 ---
