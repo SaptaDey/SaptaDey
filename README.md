@@ -13,7 +13,7 @@
 
 > *"Bridging the gap between cutting-edge biomedical research and AI-driven scientific discovery"*
 
-I'm a **Ph.D. Scholar & Research Associate** at the Medical University of Graz, Austria, with over **10 years of experience** in immunology, molecular biology, and inflammatory diseases. My passion lies at the intersection of **biomedical research** and **artificial intelligence**, where I develop innovative AI frameworks to accelerate scientific discovery.
+I'm a **Researcher** at the Medical University of Graz, Austria, with over **10 years of experience** in immunology, molecular biology, and inflammatory diseases. My passion lies at the intersection of **biomedical research** and **artificial intelligence**, where I develop innovative AI frameworks to accelerate scientific discovery.
 
 🔬 **Current Focus**: Cutaneous malignancies, T-cell lymphoma, and AI-powered research methodologies  
 🏥 **Institution**: University Clinic for Dermatology and Venerology, Medical University of Graz  
