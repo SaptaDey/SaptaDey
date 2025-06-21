@@ -120,7 +120,6 @@ I'm a **Researcher** at the Medical University of Graz, Austria, with over **10 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaptaDey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SaptaDey)](https://git.io/streak-stats)
 
 </div>
 
