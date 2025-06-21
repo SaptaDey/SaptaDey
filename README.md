@@ -179,7 +179,6 @@ I'm a **Ph.D. Scholar & Research Associate** at the Medical University of Graz, 
 I'm always excited to collaborate on innovative projects at the intersection of AI and biomedical research!
 
 📧 **Email**: [saptaswa.dey@medunigraz.at](mailto:saptaswa.dey@medunigraz.at)  
-📱 **Phone**: +43 676 4737661  
 🏢 **Location**: Graz, Austria  
 
 *"Innovation happens at the intersection of disciplines - let's create the future of scientific research together!"*
