@@ -1,4 +1,10 @@
 # 🧬 Dr. Saptaswa Dey 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Biomedical+Researcher;Innovative+Problem+Solver;Computational+Biologist;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+</div>
+
+
 ### 🔬 Biomedical Researcher | 🧠 AI Developer | 🧬 Computational Immunologist
 
 <div align="center">
