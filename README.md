@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/SaptaDey/My-profile/blob/main/header-image.png" alt="Dr. Saptaswa Dey - Biomedical Researcher & AI Developer" width="100%">
-</p>
-
-
 # 🧬 Dr. Saptaswa Dey 
 ### 🔬 Biomedical Researcher | 🧠 AI Developer | 🧬 Computational Immunologist
 
