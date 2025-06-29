@@ -190,11 +190,7 @@ I'm always excited to collaborate on innovative projects at the intersection of 
 
 
 </div>
----
-<div align="center">
-<iframe src="https://github.com/sponsors/SaptaDey/card" title="Sponsor SaptaDey" height="225" width="600" style="border: 0;"></iframe>
-</div>
----
+
 
 <div align="center">
   
