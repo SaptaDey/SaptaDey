@@ -116,9 +116,12 @@ I'm a **Researcher** at the Medical University of Graz, Austria, with over **10 
 
 <div align="center">
 
-![Sapta's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaptaDey&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaptaDey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![SaptaDey's Stats](https://github-readme-stats.vercel.app/api?username=SaptaDey&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![SaptaDey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaptaDey&theme=radical&hide_border=false)
+![SaptaDey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaptaDey&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+
 
 
 </div>
