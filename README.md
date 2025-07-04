@@ -26,12 +26,6 @@ I'm a **Researcher** at the Medical University of Graz, Austria, with over **10 
 
 ## 🚀 Featured AI Research Projects
 
-### 🧠 [NexusMind 2.0](https://github.com/SaptaDey/NexusMind-2.0)
-**Next-Generation AI Reasoning Framework for Scientific Research**
-- Advanced graph-based reasoning for complex scientific problems
-- Multi-modal AI integration for biomedical data analysis
-- **Tech Stack**: Python, HTML, JavaScript
-
 ### 🌐 [Adaptive Graph-of-Thoughts MCP Server](https://github.com/SaptaDey/Adaptive-Graph-of-Thoughts-MCP-server)
 **AI Reasoning Framework for Scientific Research**
 - Sophisticated reasoning workflows using graph-based representations
